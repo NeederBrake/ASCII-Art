@@ -1,0 +1,8 @@
+﻿  SAE v4.cpp
+C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\SAE v4\SAE v4.cpp(170,31): warning C4244: 'argument' : conversion de 'double' en 'const unsigned __int64', perte possible de données
+C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\SAE v4\SAE v4.cpp(174,29): warning C4244: 'argument' : conversion de 'double' en 'std::streamsize', perte possible de données
+C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\SAE v4\SAE v4.cpp(181,20): warning C4244: 'initialisation' : conversion de 'unsigned __int64' en 'double', perte possible de données
+C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\SAE v4\SAE v4.cpp(215,30): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\SAE v4\SAE v4.cpp(217,30): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\SAE v4\SAE v4.cpp(238,33): warning C4244: 'argument' : conversion de 'double' en 'std::streamsize', perte possible de données
+  SAE v4.vcxproj -> C:\Users\cleme\Desktop\BUT 1ere Annee\SAE Ascii Art\Rendu Groupe H (1)\Rendu Groupe H\SAE v4\x64\Debug\SAE v4.exe
